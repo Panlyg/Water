@@ -37,4 +37,9 @@ make install
 ```
 
 ## how to run programs
-later on.
+i think you know it already. if not.
+
+
+```
+wine taskmgr
+```
